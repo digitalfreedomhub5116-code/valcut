@@ -1,0 +1,5 @@
+{
+  "name": "val-Cut AI",
+  "description": "AI-powered automated highlight reel generator for Indian Valorant players using Gemini 3 Flash and FFmpeg.",
+  "requestFramePermissions": []
+}
